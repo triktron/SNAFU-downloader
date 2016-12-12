@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=true
+Type=Application
+Name=snafu
+Exec=electron /home/triktron/Desktop/projects/comicDownloader/snafu/
+Icon=/home/triktron/Desktop/projects/comicDownloader/snafu/icon.png
+Name=snafu downloader
