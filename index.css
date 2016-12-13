@@ -1,0 +1,32 @@
+html {
+	font-family: 'Squada One', cursive, sans-serif;
+}
+#wrap {
+	width: 100%;
+	height: 100%;
+	text-align: center;
+
+}
+#content {
+	margin: 50px auto;
+	padding: 10px;
+}
+input {
+	font-family: 'Squada One', cursive, sans-serif;
+	background-color: #C74907;
+	border: 5px solid #C74907;
+	border-radius: 5px;
+	color: #FFF;
+	font-size: 50px;
+	height: 50px;
+	padding: 4px 18px;
+	width: 850px;
+	text-align: center;
+}
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:    #FFF;
+}
+#content p {
+	font-size: 32px;
+	color: #222;
+}
